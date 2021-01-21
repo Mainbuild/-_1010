@@ -1,4 +1,4 @@
-# -_1010
+# 백준_1010
 BaekJoon 1010 풀이
 
 문제 : https://www.acmicpc.net/problem/1010
